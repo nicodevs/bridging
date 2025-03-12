@@ -3,6 +3,8 @@
 
 I stumbled upon the same bug reported in https://github.com/nuxt/bridge/issues/1469
 
+---
+
 This repo contains a minimal Nuxt 2 application with `nuxt-bridge` and the following config:
 
 ```js
