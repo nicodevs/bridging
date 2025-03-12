@@ -13,6 +13,8 @@
   },
   "devDependencies": {
     "@nuxt/bridge": "^3.4.0",
-    "nuxi": "^3.22.5"
+    "nuxi": "^3.22.5",
+    "unenv": "1.0.0",
+    "nitropack": "~2.10"
   }
 }
