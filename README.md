@@ -1,6 +1,10 @@
 
 # Issue: [Nuxt Bridge](https://nuxt.com/docs/bridge/overview) fails to run or build
 
+✅ Temporary solution: Use Nitropack 2 until https://github.com/nuxt/bridge/pull/1475 gets merged.
+
+---
+
 I stumbled upon the same bug reported in https://github.com/nuxt/bridge/issues/1469
 
 ---
