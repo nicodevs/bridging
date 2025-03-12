@@ -13,6 +13,10 @@
   },
   "devDependencies": {
     "@nuxt/bridge": "^3.4.0",
-    "nuxi": "^3.22.5"
+    "nuxi": "^3.22.5",
+    "nitropack": "~2.10"
+  },
+  "resolutions": {
+    "nitropack": "~2.10"
   }
 }
