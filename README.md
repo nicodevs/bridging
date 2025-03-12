@@ -1,6 +1,8 @@
 
 # Issue: Nuxt Bridge fails
 
+I stumbled upon the bug reported in https://github.com/nuxt/bridge/issues/1469
+
 This repo contains a minimal Nuxt 2 application with `nuxt-bridge` and the following config:
 
 ```js
@@ -87,7 +89,7 @@ When I try to `yarn build`, I get the same error:
 
 ## Turning off Nuxt Bridge works
 
-If you check out the `bridge-off` branch of this repo, you will find this config:
+If you check out the [bridge-off]([url](https://github.com/nicodevs/bridging/tree/bridge-off)) branch of this repo, you will find this config:
 
 ```js
 import { defineNuxtConfig } from '@nuxt/bridge'
